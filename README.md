@@ -6,10 +6,10 @@
 
 
 <h2>👨‍💻 IT Certifications:</h2>
-  Cisco CCNA
-  CompTIA Security+
-  CompTIA Network+
-  CompTIA A+
+  Cisco CCNA <br />
+  CompTIA Security+ <br />
+  CompTIA Network+ <br />
+  [CompTIA A+](https://github.com/jonzilinsky/pictures/blob/main/A+.png?raw=true)
 
 
 <h2> 🤳 Connect with me:</h2>
