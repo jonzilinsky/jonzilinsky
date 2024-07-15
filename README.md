@@ -17,7 +17,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
- - [linkedin](www.linkedin.com/in/jonzilinsky)
+ - [linkedin](https://www.linkedin.com/in/jonzilinsky/)
 
 
 <!--
