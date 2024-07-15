@@ -1,10 +1,10 @@
 <h1>Hi, I'm Jon! </h1>
 
-<h2>👨‍💻 Project Journal:</h2>
+<h2>👨‍💻 My IT Project Journal:</h2>
 
 - [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
 
-<h2>:film_projector: Project Videos:</h2>
+<h2>:film_projector: My IT Project Videos:</h2>
 
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
 
