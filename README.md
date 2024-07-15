@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table-)
+  - [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
 
 
 <h2>👨‍💻 IT Certifications:</h2>
