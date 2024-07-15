@@ -4,7 +4,7 @@
 
 - [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
 
-<h2>👨‍💻 IT Certifications:</h2>
+<h2>:page_facing_up: IT Certifications:</h2>
 
  - Cisco CCNA <br />
  - [CompTIA Security+](https://github.com/jonzilinsky/pictures/blob/main/Security+.png?raw=true) <br />
