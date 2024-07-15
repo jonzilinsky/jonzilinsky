@@ -10,7 +10,7 @@
 
 <h2>:page_facing_up: IT Certifications:</h2>
 
- - Cisco CCNA <br />
+ - [Cisco CCNA](https://github.com/jonzilinsky/pictures/blob/main/ccnacert.png?raw=true) <br />
  - [CompTIA Security+](https://github.com/jonzilinsky/pictures/blob/main/Security+.png?raw=true) <br />
  - [CompTIA Network+](https://github.com/jonzilinsky/pictures/blob/main/Network+.png?raw=true)<br />
  - [CompTIA A+](https://github.com/jonzilinsky/pictures/blob/main/A%2B.png?raw=true)
