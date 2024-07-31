@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 My IT Project Journal:</h2>
 
+- [Linux System Monitor Script](https://github.com/jonzilinsky/Linux-System-Monitor-Script)
 - [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
 
 <h2>:film_projector: My IT Project Videos:</h2>
