@@ -10,7 +10,7 @@
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
 
 <h2>:page_facing_up: IT Certifications:</h2>
-
+ - [CompTIA Linux+](ttps://github.com/jonzilinsky/pictures/blob/main/linux+.png?raw=true) <br />h
  - [Cisco CCNA](https://github.com/jonzilinsky/pictures/blob/main/ccnacert.png?raw=true) <br />
  - [CompTIA Security+](https://github.com/jonzilinsky/pictures/blob/main/Security+.png?raw=true) <br />
  - [CompTIA Network+](https://github.com/jonzilinsky/pictures/blob/main/Network+.png?raw=true)<br />
