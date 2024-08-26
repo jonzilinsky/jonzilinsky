@@ -8,6 +8,10 @@
 <h2>:film_projector: My IT Project Videos:</h2>
 
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
+
+<h2>🐍 Learning Python Projects:</h2>
+
+- [Date Calculator](https://github.com/jonzilinsky/datecalc.py)
   
 <h2>:page_facing_up: IT Certifications:</h2>
 
