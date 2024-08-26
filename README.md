@@ -11,6 +11,7 @@
 
 <h2>🐍 Learning Python Projects:</h2>
 
+- [Fun Facts About the 1900s](https://github.com/jonzilinsky/fun_facts_1900s)
 - [Date Calculator](https://github.com/jonzilinsky/datecalc.py)
   
 <h2>:page_facing_up: IT Certifications:</h2>
