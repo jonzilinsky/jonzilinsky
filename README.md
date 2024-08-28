@@ -8,11 +8,13 @@
 <h2>:film_projector: My IT Project Videos:</h2>
 
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
+- [Python Network Port Scanner](https://www.youtube.com/watch?v=LPwil17SHKY)
 
-<h2>🐍 Learning Python Projects:</h2>
+<h2>🐍 Learning Python Code Projects:</h2>
 
 - [Fun Facts About the 1900s](https://github.com/jonzilinsky/fun_facts_1900s)
 - [Date Calculator](https://github.com/jonzilinsky/datecalc.py)
+- [Network Port Scanner](https://github.com/jonzilinsky/portscanner.py/tree/main)
   
 <h2>:page_facing_up: IT Certifications:</h2>
 
