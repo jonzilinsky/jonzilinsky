@@ -18,6 +18,7 @@
   
 <h2>:page_facing_up: IT Certifications:</h2>
 
+ - [Microsoft AZ-900](https://github.com/jonzilinsky/pictures/blob/main/az900.png?raw=true) <br /> 
  - [CompTIA Linux+](https://github.com/jonzilinsky/pictures/blob/main/linux+.png?raw=true) <br />
  - [Cisco CCNA](https://github.com/jonzilinsky/pictures/blob/main/ccnacert.png?raw=true) <br />
  - [CompTIA Security+](https://github.com/jonzilinsky/pictures/blob/main/Security+.png?raw=true) <br />
