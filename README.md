@@ -18,6 +18,7 @@
   
 <h2>:page_facing_up: IT Certifications:</h2>
 
+ - [Splunk Core Certified User](https://github.com/jonzilinsky/pictures/blob/main/Screenshot%20from%202024-10-17%2021-57-34.png?raw=true)  <br />
  - [Microsoft AZ-900](https://github.com/jonzilinsky/pictures/blob/main/az900.png?raw=true) <br /> 
  - [CompTIA Linux+](https://github.com/jonzilinsky/pictures/blob/main/linux+.png?raw=true) <br />
  - [Cisco CCNA](https://github.com/jonzilinsky/pictures/blob/main/ccnacert.png?raw=true) <br />
