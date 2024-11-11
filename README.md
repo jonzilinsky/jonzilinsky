@@ -18,6 +18,7 @@
   
 <h2>:page_facing_up: IT Certifications:</h2>
 
+ - [INE eJPT](https://github.com/jonzilinsky/pictures/blob/main/ejpt.png?raw=true) <br />
  - [CompTIA CySA+](https://github.com/jonzilinsky/pictures/blob/main/Cysa+.png?raw=true) <br />
  - [Splunk Core Certified User](https://github.com/jonzilinsky/pictures/blob/main/Screenshot%20from%202024-10-17%2021-57-34.png?raw=true)  <br />
  - [Microsoft AZ-900](https://github.com/jonzilinsky/pictures/blob/main/az900.png?raw=true) <br /> 
