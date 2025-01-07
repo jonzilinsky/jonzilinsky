@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jon! </h1>
 
-<h2>Top 5% TryHackMe</h2>
+<h2>Top 4% TryHackMe</h2>
 <img src="https://tryhackme-badges.s3.amazonaws.com/jon.zili.png" alt="Your Image Badge" />
 
 <h2>👨‍💻 My IT Project Journal:</h2>
