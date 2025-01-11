@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jon! </h1>
 
 <h2>Top 3% TryHackMe</h2>
-
+<img src="https://raw.githubusercontent.com/jonzilinsky/pictures/main/jon.zili.png" alt="tryhackme">
 
 <h2>👨‍💻 My IT Project Journal:</h2>
 
