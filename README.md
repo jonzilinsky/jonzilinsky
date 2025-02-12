@@ -24,6 +24,7 @@
   
 <h2>:page_facing_up: IT Certifications:</h2>
 
+ - [TCM PNPT](https://github.com/jonzilinsky/pictures/blob/main/PNPT.png?raw=true) <br />
  - [TCM PJPT](https://github.com/jonzilinsky/pictures/blob/main/PJPT.png?raw=true) <br />
  - [INE eJPT](https://github.com/jonzilinsky/pictures/blob/main/ejpt.png?raw=true) <br />
  - [CompTIA CySA+](https://github.com/jonzilinsky/pictures/blob/main/Cysa+.png?raw=true) <br />
