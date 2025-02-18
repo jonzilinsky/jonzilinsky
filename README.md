@@ -5,12 +5,6 @@
   <img src="https://raw.githubusercontent.com/jonzilinsky/pictures/main/jon.zili2.png" alt="tryhackme">
 </a>
 
-
-<h2>👨‍💻 My IT Project Journal:</h2>
-
-- [System Monitor Bash Script](https://github.com/jonzilinsky/Linux-System-Monitor-Script)
-- [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
-
 <h2>:film_projector: My IT Project Videos:</h2>
 
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
@@ -21,6 +15,15 @@
 - [Fun Facts About the 1900s](https://github.com/jonzilinsky/fun_facts_1900s)
 - [Date Calculator](https://github.com/jonzilinsky/datecalc.py)
 - [Network Port Scanner](https://github.com/jonzilinsky/portscanner.py/tree/main)
+
+<h2>🕸️ Learning Web App Development</h2>
+
+- [HTML practice](https://github.com/jonzilinsky/html_practice_odin)
+
+<h2>👨‍💻 Other IT Project Journals:</h2>
+
+- [System Monitor Bash Script](https://github.com/jonzilinsky/Linux-System-Monitor-Script)
+- [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
   
 <h2>:page_facing_up: IT Certifications:</h2>
 
