@@ -12,9 +12,9 @@
 
 <h2>🐍 Learning Python Code Projects:</h2>
 
+- [Network Port Scanner](https://github.com/jonzilinsky/portscanner.py/tree/main)
 - [Fun Facts About the 1900s](https://github.com/jonzilinsky/fun_facts_1900s)
 - [Date Calculator](https://github.com/jonzilinsky/datecalc.py)
-- [Network Port Scanner](https://github.com/jonzilinsky/portscanner.py/tree/main)
 
 <h2>🕸️ Learning Web Development</h2>
 
