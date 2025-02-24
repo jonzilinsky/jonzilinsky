@@ -18,6 +18,7 @@
 
 <h2>🕸️ Learning Web Development</h2>
 
+- [Recipes Website](https://github.com/jonzilinsky/odin-recipes)
 - [HTML practice](https://github.com/jonzilinsky/html_practice_odin)
 
 <h2>👨‍💻 Other IT Project Journals:</h2>
