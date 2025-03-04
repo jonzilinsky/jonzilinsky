@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jon! </h1>
 
-<h2>Top 2% TryHackMe</h2>
+<h2>Top 1% TryHackMe</h2>
 <a href="https://tryhackme.com/r/p/jon.zili">
-  <img src="https://raw.githubusercontent.com/jonzilinsky/pictures/main/jon.zili2.png" alt="tryhackme">
+  <img src="https://github.com/jonzilinsky/pictures/blob/main/jon.zili3.png?raw=true">
 </a>
 
 <h2>:film_projector: My IT Project Videos:</h2>
