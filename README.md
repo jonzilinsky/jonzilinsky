@@ -5,12 +5,15 @@
   <img src="https://github.com/jonzilinsky/pictures/blob/main/jon.zili3.png?raw=true">
 </a>
 
-<h2>:film_projector: My IT Project Videos:</h2>
+<h2>Learning Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonzilinsky&layout=compact" alt="Top Langs">
+
+<h2>:film_projector: My IT Project Videos</h2>
 
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
 - [Python Network Port Scanner](https://www.youtube.com/watch?v=LPwil17SHKY)
 
-<h2>🐍 Learning Python Code Projects:</h2>
+<h2>🐍 Learning Python Projects</h2>
 
 - [Network Port Scanner](https://github.com/jonzilinsky/python-projects/tree/main/portscanner)
 - [Fun Facts About the 1900s](https://github.com/jonzilinsky/python-projects/tree/main/fun_facts_1900s)
@@ -23,12 +26,12 @@
 - [JS Rock Paper Scissors](https://github.com/jonzilinsky/js-rock-paper-scissors)
 - [HTML practice](https://github.com/jonzilinsky/html_practice_odin)
 
-<h2>👨‍💻 Other IT Project Journals:</h2>
+<h2>👨‍💻 Other IT Project Journals</h2>
 
 - [System Monitor Bash Script](https://github.com/jonzilinsky/Linux-System-Monitor-Script)
 - [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
   
-<h2>:page_facing_up: IT Certifications:</h2>
+<h2>:page_facing_up: IT Certifications</h2>
 
  - [TryHackMe SAL1 - Security Analyst Level 1 (03/25)](https://github.com/jonzilinsky/pictures/blob/main/sal1.png?raw=true) <br />
  - [TCM PNPT - Practical Network Penetration Tester (02/25)](https://github.com/jonzilinsky/pictures/blob/main/PNPT.png?raw=true) <br />
@@ -43,7 +46,7 @@
  - [CompTIA Network+ (11/23)](https://github.com/jonzilinsky/pictures/blob/main/Network+.png?raw=true)<br />
  - [CompTIA A+ (05/23)](https://github.com/jonzilinsky/pictures/blob/main/A%2B.png?raw=true)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
  - [linkedin](https://www.linkedin.com/in/jonzilinsky/)
 
