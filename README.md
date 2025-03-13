@@ -20,6 +20,7 @@
 
 - [Sample Website Template](https://github.com/jonzilinsky/sample-webpage)
 - [Recipes Website](https://github.com/jonzilinsky/odin-recipes)
+- [JS Rock Paper Scissors](https://github.com/jonzilinsky/js-rock-paper-scissors)
 - [HTML practice](https://github.com/jonzilinsky/html_practice_odin)
 
 <h2>👨‍💻 Other IT Project Journals:</h2>
