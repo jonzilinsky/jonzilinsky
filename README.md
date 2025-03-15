@@ -13,7 +13,7 @@
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
 - [Python Network Port Scanner](https://www.youtube.com/watch?v=LPwil17SHKY)
 
-<h2>🐍 Learning Python Projects</h2>
+<h2>🐍 Learning Python</h2>
 
 - [Network Port Scanner](https://github.com/jonzilinsky/python-projects/tree/main/portscanner)
 - [Fun Facts About the 1900s](https://github.com/jonzilinsky/python-projects/tree/main/fun_facts_1900s)
