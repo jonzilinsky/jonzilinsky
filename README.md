@@ -6,7 +6,7 @@
 </a>
 
 <h2>Learning Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonzilinsky&layout=compact" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonzilinsky&layout=pie">
 
 <h2>:film_projector: My IT Project Videos</h2>
 
