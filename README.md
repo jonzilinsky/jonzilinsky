@@ -16,6 +16,7 @@
 <h2>🐍 Learning Python</h2>
 
 - [Network Port Scanner](https://github.com/jonzilinsky/python-projects/tree/main/portscanner)
+- [Terminal Screen Saver](https://github.com/jonzilinsky/python-projects/tree/main/term_screensaver)
 - [Fun Facts About the 1900s](https://github.com/jonzilinsky/python-projects/tree/main/fun_facts_1900s)
 - [Date Calculator](https://github.com/jonzilinsky/python-projects/tree/main/datecalc.py)
 
