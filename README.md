@@ -1,10 +1,5 @@
 <h1>Hi, I'm Jon! </h1>
 
-<h2>Top 1% TryHackMe</h2>
-<a href="https://tryhackme.com/r/p/jon.zili">
-  <img src="https://github.com/jonzilinsky/pictures/blob/main/jon.zili3.png?raw=true">
-</a>
-
 <h2>Learning Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonzilinsky&layout=compact">
 
@@ -31,9 +26,15 @@
 
 - [System Monitor Bash Script](https://github.com/jonzilinsky/Linux-System-Monitor-Script)
 - [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
+
+<h2>Top 2% TryHackMe</h2>
+<a href="https://tryhackme.com/r/p/jon.zili">
+  <img src="https://github.com/jonzilinsky/pictures/blob/main/jon.zili3.png?raw=true">
+</a>
   
 <h2>:page_facing_up: IT Certifications</h2>
 
+ - [Fortinet Certified Associate in Cybersecurity (06/25)](https://raw.githubusercontent.com/jonzilinsky/pictures/refs/heads/main/FortinetCertifiedAssociateinCybersecurity.png) <br />
  - [TryHackMe SAL1 - Security Analyst Level 1 (03/25)](https://github.com/jonzilinsky/pictures/blob/main/sal1.png?raw=true) <br />
  - [TCM PNPT - Practical Network Penetration Tester (02/25)](https://github.com/jonzilinsky/pictures/blob/main/PNPT.png?raw=true) <br />
  - [TCM PJPT - Practical Junior Penetration Tester (12/24)](https://github.com/jonzilinsky/pictures/blob/main/PJPT.png?raw=true) <br />
