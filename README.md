@@ -1,6 +1,5 @@
 <h1>Hi, I'm Jon! </h1>
 
-<h2>Learning Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonzilinsky&layout=compact">
 
 <h2>:film_projector: My IT Project Videos</h2>
