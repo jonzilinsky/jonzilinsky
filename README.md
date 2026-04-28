@@ -28,7 +28,7 @@
 - [System Monitor Bash Script](https://github.com/jonzilinsky/Linux-System-Monitor-Script)
 - [Rainbow Table](https://github.com/jonzilinsky/Rainbow-Table)
 
-<h2>Top 2% TryHackMe</h2>
+<h2>Top 1% TryHackMe</h2>
 <a href="https://tryhackme.com/r/p/jon.zili">
   <img src="https://github.com/jonzilinsky/pictures/blob/main/jon.zili3.png?raw=true">
 </a>
