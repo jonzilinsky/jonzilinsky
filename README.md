@@ -35,6 +35,7 @@
   
 <h2>:page_facing_up: IT Certifications</h2>
 
+ - [Centri BTL1 - Blue Team Level 1 (08/26)](https://github.com/jonzilinsky/pictures/blob/main/BlueTeamLevel1(BTL1)-Certification.png?raw=true) <br />
  - [Fortinet Certified Associate in Cybersecurity (06/25)](https://raw.githubusercontent.com/jonzilinsky/pictures/refs/heads/main/FortinetCertifiedAssociateinCybersecurity.png) <br />
  - [TryHackMe SAL1 - Security Analyst Level 1 (03/25)](https://github.com/jonzilinsky/pictures/blob/main/sal1.png?raw=true) <br />
  - [TCM PNPT - Practical Network Penetration Tester (02/25)](https://github.com/jonzilinsky/pictures/blob/main/PNPT.png?raw=true) <br />
