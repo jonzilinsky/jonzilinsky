@@ -5,6 +5,7 @@
 <h2>:film_projector: My IT Project Videos</h2>
 
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
+- [Try Hack Me: Cyborg](https://www.youtube.com/watch?v=RCEVxNaXO1U)
 - [Python Network Port Scanner](https://www.youtube.com/watch?v=LPwil17SHKY)
 
 <h2>🐍 Learning Python</h2>
