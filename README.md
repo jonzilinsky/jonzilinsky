@@ -9,6 +9,8 @@
 
 <h2>:film_projector: My IT Project Videos</h2>
 
+- [Splunk Malware Investigation](https://www.youtube.com/watch?v=N_Qei_MaVkQ)
+- [Active Directory Password Spray Detection](https://www.youtube.com/watch?v=HrTcQB2ux9k)
 - [STP Broadcast Storm Lab](https://www.youtube.com/watch?v=SiQXdNe1ZKM)
 - [Try Hack Me: Cyborg](https://www.youtube.com/watch?v=RCEVxNaXO1U)
 - [Python Network Port Scanner](https://www.youtube.com/watch?v=LPwil17SHKY)
