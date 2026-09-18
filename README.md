@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jon! </h1>
-
+<img src="https://www.codewars.com/users/jonzili/badges/small">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jonzilinsky&layout=compact">
 
 <h2>Top 1% TryHackMe</h2>
